@@ -1,6 +1,8 @@
 # Welcome to My Learning Journal
 ## In this journal, I will be recording information that I learn while attending Code Fellows. 
 
+Link to my profile: https://github.com/adrianhuebner
+
 ### 17 June 2019 --Growth Mindset Thinking---
 **Here is what my descripton of what _Growth Mindset Thinking_ is**
 I believe that Growth Mindset is about praising and rewarding effort rather than qualities, i.e. artistic ability, intelligence.
@@ -17,6 +19,10 @@ I believe that Growth Mindset is about praising and rewarding effort rather than
 ## One of the **Most** important things that I will remind myself of:
 ## _Failure is an opportunity to grow_
 
+### 17 June 2019 --Learning Markdown and Syntax on GitHub--
+**Here are notes that are from my assigned reading**
+
+## Learning Markdown
 
 
 You can use the [editor on GitHub](https://github.com/adrianhuebner/adriahuebner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
