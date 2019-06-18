@@ -1,6 +1,7 @@
 # Welcome to My Learning Journal
 ## In this journal, I will be recording information that I learn while attending Code Fellows. 
 
+My name is Adrian Huebner, I currently work at Starbucks and am furthering my education by attending Code Fellows. In my spare time where I am not making coffee or studying or tutoring my stuborn godchild, I am reading a book from my vast libray.
 Link to my profile: https://github.com/adrianhuebner
 
 ### 17 June 2019 --Growth Mindset Thinking---
@@ -18,6 +19,11 @@ I believe that Growth Mindset is about praising and rewarding effort rather than
 
 ## One of the **Most** important things that I will remind myself of:
 ## _Failure is an opportunity to grow_
+
+### 17 June 2019 --Explanation of Markdown and Syntax--
+
+## Markdown
+- 
 
 
 You can use the [editor on GitHub](https://github.com/adrianhuebner/adriahuebner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
