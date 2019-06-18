@@ -1,7 +1,8 @@
 # Welcome to My Learning Journal
 ## In this journal, I will be recording information that I learn while attending Code Fellows. 
 
-My name is Adrian Huebner, I currently work at Starbucks and am furthering my education by attending Code Fellows. In my spare time where I am not making coffee or studying or tutoring my stuborn godchild, I am reading a book from my vast libray.
+My name is Adrian Huebner, I currently work at Starbucks and am furthering my education by attending Code Fellows. In my spare time when I am not making coffee :coffee: :tea: or studying :school_satchel: or tutoring my stuborn :unamused: godchild, I am reading a book :book: from my vast libray.
+
 Link to my profile: https://github.com/adrianhuebner
 
 ### 17 June 2019 --Growth Mindset Thinking---
@@ -23,8 +24,22 @@ I believe that Growth Mindset is about praising and rewarding effort rather than
 ### 17 June 2019 --Explanation of Markdown and Syntax--
 
 ## Markdown
-- 
 
+- Markdown is light weight language in coding that is a way to style text that you see on the web
+- What stood out to me was that Markdown is just regular text that has non-alphabetic characters that tell the word that you write what to do
+-Markdown allows me to do things like _make this font italic_ or allows me to **make this bold** or say, oops I made a mistake ~This isn't what I wanted to say~ 
+
+## Syntax
+
+- Syntax is the part of a programming language that is the set rules that that define how the combination of non-alphabetic characters 
+-Some expamples of Syntax are:
+** ** This makes words bold
+_ _ This makes words italic 
+:EMOJISGOHERE:
+~ ~ This means I want to cross these words out
+You can use this symbol to make a quote >
+I can make a task list by using these symbols [  ]
+And when I am done with a task list item if I add ad x between the square brackets it will make a box that is checked
 
 You can use the [editor on GitHub](https://github.com/adrianhuebner/adriahuebner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
