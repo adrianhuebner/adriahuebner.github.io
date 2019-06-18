@@ -19,11 +19,6 @@ I believe that Growth Mindset is about praising and rewarding effort rather than
 ## One of the **Most** important things that I will remind myself of:
 ## _Failure is an opportunity to grow_
 
-### 17 June 2019 --Learning Markdown and Syntax on GitHub--
-**Here are notes that are from my assigned reading**
-
-## Learning Markdown
-
 
 You can use the [editor on GitHub](https://github.com/adrianhuebner/adriahuebner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
