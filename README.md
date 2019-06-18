@@ -32,7 +32,7 @@ I believe that Growth Mindset is about praising and rewarding effort rather than
 ## Syntax
 
 - Syntax is the part of a programming language that is the set rules that that define how the combination of non-alphabetic characters 
--Some expamples of Syntax are:
+Some expamples of Syntax are:
 ** ** This makes words bold
 _ _ This makes words italic 
 :EMOJISGOHERE:
