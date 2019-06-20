@@ -61,3 +61,5 @@ Have to save file to find errors | Underlines errors automatically
 Doesn't seem as quick | Seems to funcation faster for day to day stuff
 No Auto Completion | Has Auto Completion
 Use alt-shift-cmd-F to find references | Hover over reference to find all other references
+
+I think that it is important for software developers to be careful about what they choose as a text editor because everyone has a differnet way of processing things so you need to choose a program that works best with you.
