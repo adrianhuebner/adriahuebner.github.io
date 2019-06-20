@@ -33,13 +33,17 @@ I believe that Growth Mindset is about praising and rewarding effort rather than
 
 - Syntax is the part of a programming language that is the set rules that that define how the combination of non-alphabetic characters 
 Some expamples of Syntax are:
-** ** This makes words bold
-_ _ This makes words italic 
-:EMOJISGOHERE:
-~ ~ This means I want to cross these words out
-You can use this symbol to make a quote >
-I can make a task list by using these symbols [  ]
-And when I am done with a task list item if I add ad x between the square brackets it will make a box that is checked
+** ** This makes words bold  
+_ _ This makes words italic    
+:EMOJISGOHERE:   
+~ ~ This means I want to cross these words out   
+You can use this symbol to make a quote >   
+I can make a task list by using these symbols [  ]   
+And when I am done with a task list item if I add ad x between the square brackets it will make a box that is checked   
+
+### 19 June 2019 Revisiting What I learned on Monday
+
+
 
 You can use the [editor on GitHub](https://github.com/adrianhuebner/adriahuebner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
