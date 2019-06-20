@@ -51,7 +51,6 @@ And when I am done with a task list item if I add ad x between the square bracke
 ### 19 June 2019 --Choosing a Text Editor--
 
 #### What is a Text Editor?
-
 ##### A text editor is software that allows users to imput and edit text.
 
 Atom | Visual Studio Code
@@ -63,3 +62,41 @@ No Auto Completion | Has Auto Completion
 Use alt-shift-cmd-F to find references | Hover over reference to find all other references
 
 I think that it is important for software developers to be careful about what they choose as a text editor because everyone has a differnet way of processing things so you need to choose a program that works best with you.
+
+### 19 June 2019 --Cheat Sheet for Terminal Use--
+#### Here I am providing myself with a cheat sheet that I can reference whenever needed in the future
+
+##### Master the Command Line!
+- The Command Line, also known as the terminal, running BASH   
+- A command line, is a text based interface to the system. You can give the terminal commands by typing in text and recieveing an "answer", feedback, in text   
+- **Line 1** Provides a prompt, typically the first thing you write is a command
+- **Lines 2-5** Output from running the command, most output will be directly under the line with the command. *There are commands that only produce their task, won't list information, UNLESS there is an issue*
+- **Line 6** Presents us with the prompt again  
+
+###### OPENING A TERMINAL APPLICATIONS -> UTILITIES
+
+##### Basic Navigation   
+
+Shorthand | What Shorthand Does
+------------ | ------------
+pwd | Print Working Directory= Where are we currently
+ls | List= List of the contents of directory
+cd | Change Directories= Move to another directory
+
+**RELATIVE PATH** Specify a file or directory in relation to the where we are currently in the system, they will not have a forwad slash.    
+**ABSOLUTE PATH** Specify a file or directory in relation to the root directory, you can identify them with the start of a forward slash ( / )    
+
+*MORE ON PATHS*    
+~ (tilde) Shortcut to home directory    
+. (dot) Reference to current directory    
+.. (dotdot) Reference to parent directory   
+
+###### _**Tab Completion**_  
+When you start typing a path, you may hit the TAB key on your keyboard at any time which will invoke an auto completion action. If there are multiple options with what you begin typing in, if you hit the TAB key another time it will provide a list of possible options.    
+
+##### Discover More About Files   
+
+###### _**EVERYTHING IS A FILE**_   
+
+**File**= Obtain information about what type of file a file or directory is    
+**Is -a**= Lists the contents of a directory, including hidden files
