@@ -41,14 +41,14 @@ You can use this symbol to make a quote >
 I can make a task list by using these symbols [  ]   
 And when I am done with a task list item if I add ad x between the square brackets it will make a box that is checked   
 
-### 19 June 2019 Revisiting What I Learned on Monday
+### 19 June 2019 --Revisiting What I Learned on Monday--
 
 - Remember to put multiple spaces between lines that I want to start a new line with   
 - I will remember that there are multiple says of making italic font by either doing the syntax: ** or _ _ and putting the words between the symbols  
 - After taking the test on Tuesday, I will **always** remember that an ! (explamation point) goes in front of the image that I am trying to put in   
 - From learning about _Growth Thinking_, I will remember to always ask my classmates, teachers, or others for help when I need it  
 
-### 19 June 2019 Choosing a Text Editor
+### 19 June 2019 --Choosing a Text Editor--
 
 #### What is a Text Editor?
 
