@@ -48,4 +48,16 @@ And when I am done with a task list item if I add ad x between the square bracke
 - After taking the test on Tuesday, I will **always** remember that an ! (explamation point) goes in front of the image that I am trying to put in   
 - From learning about _Growth Thinking_, I will remember to always ask my classmates, teachers, or others for help when I need it  
 
+### 19 June 2019 Choosing a Text Editor
 
+#### What is a Text Editor?
+
+##### A text editor is software that allows users to imput and edit text.
+
+Atom | Visual Studio Code
+------------ | -------------
+Brought to people by Github | Brought to people by Microsoft
+Have to save file to find errors | Underlines errors automatically
+Doesn't seem as quick | Seems to funcation faster for day to day stuff
+No Auto Completion | Has Auto Completion
+Use alt-shift-cmd-F to find references | Hover over reference to find all other references
