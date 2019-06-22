@@ -83,7 +83,7 @@ pwd | Print Working Directory= Where are we currently
 ls | List= List of the contents of directory
 cd | Change Directories= Move to another directory
 
-**RELATIVE PATH** Specify a file or directory in relation to the where we are currently in the system, they will not have a forwad slash.    
+**RELATIVE PATH** Specify a file or directory in relation to the where we are currently in the system, they will not have a forwad slash.    stora
 **ABSOLUTE PATH** Specify a file or directory in relation to the root directory, you can identify them with the start of a forward slash ( / )    
 
 *MORE ON PATHS*    
@@ -99,4 +99,13 @@ When you start typing a path, you may hit the TAB key on your keyboard at any ti
 ###### _**EVERYTHING IS A FILE**_   
 
 **File**= Obtain information about what type of file a file or directory is    
-**Is -a**= Lists the contents of a directory, including hidden files
+**Is -a**= Lists the contents of a directory, including hidden files     
+
+### 21 June 2019 --Git Tutorial Notes--   
+#### Version Control   
+- System allows you to revisit various versions of a file or set of files by recording changes
+- Allows one to revert a file or a project to a previous version, track modifications, and modify individuals and compare changes    
+**Local Version Control**   
+- One database on your hard drive that stores changes to the file   
+**Centralized Version Control**    
+**Distributed Version Control**   
