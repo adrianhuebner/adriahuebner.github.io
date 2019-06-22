@@ -8,4 +8,6 @@ Link to my profile: [Adrian Huebner](https://github.com/adrianhuebner)
 ## Table of Contents for My Learning Journal     
 ~ [17June2019](17June2019.md)     
 ~ [19June2019](19June2019.md)     
-~ [21June2019](21June2019.md)    
+~ [21June2019](21June2019.md)   
+~ [22June2019Part1](22June2019.md)
+~ [22June2019Part2](22June2019.md)

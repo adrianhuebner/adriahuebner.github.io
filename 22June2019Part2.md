@@ -28,4 +28,4 @@
   - Between 0.0 and 1.0 (.5 is 50% and .15 is 15%)  
   - RGBA allows you to specify a color, but adds a fourth value to indicate opacity  
     * Alpha value 0.0 and 1.0 (.5 is 50% and .15 is 15%)  
-  - Some browsers don
+  - Some browsers don't support
